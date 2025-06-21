@@ -6,7 +6,7 @@ How to Contact MacKeeper Support Through Live Chat, Email, or Phone
    :caption: Contents:
 
 
-For Login Sling Tv Account Click on Login Button
+For Contact MacKeeper Support Click on Support Button
 -----------------------------------------------------------
 .. image:: accuratelivechat.jpg
    :alt: My Project Logo
