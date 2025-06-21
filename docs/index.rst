@@ -8,11 +8,11 @@ How to Contact MacKeeper Support Through Live Chat, Email, or Phone
 
 For Login Sling Tv Account Click on Login Button
 -----------------------------------------------------------
-.. image:: aclogportal.jpg
+.. image:: accuratelivechat.jpg
    :alt: My Project Logo
    :width: 500px
    :align: center
-   :target: https://aclogportal.com/sling-tv-login
+   :target: https://accuratelivechat.com/
 
 In today’s fast-paced digital world, dependable cybersecurity solutions are essential. MacKeeper has carved a name for itself in the world of Mac optimization and security software, offering features such as antivirus protection, adware removal, performance monitoring, VPN services, and privacy tools. However, like any software, users occasionally encounter issues that require expert assistance. That’s where MacKeeper support becomes invaluable.
 
